@@ -1,0 +1,1 @@
+export const TOKEN_COOKIE_NAME = "TOKEN_KEY_NAME";
